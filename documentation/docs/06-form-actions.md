@@ -269,7 +269,7 @@ To customise the behaviour, you can provide a function that runs immediately bef
 			// `result` is an `ActionResult` object
 			// `update` is a function which triggers the logic that would be triggered if this callback wasn't set
 		};
-	}}
+	}}}
 >
 ```
 
